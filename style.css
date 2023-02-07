@@ -1,0 +1,37 @@
+.head{
+    font-size: 20px;
+    background-color: #EAE6E6;   
+    height: 250px;
+    text-align: center;
+    line-height: 15px;
+    color: #353434;
+}
+
+.form{
+    color: #353434;
+    font-size: 20px;
+    }
+.submit{
+    background-color: #B4B1B1;
+    border: rgb(95, 94, 94);
+    width:180px;
+    color: white;
+    
+    }
+.time{
+    color: #353434;
+    left: 500px;
+    top: 280px;
+    position: absolute;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+.contact{
+    color: #353434;
+    position: absolute;
+    font-size: 20px;
+    line-height: 15px;
+    right: 50px;
+    top: 280px; 
+}
